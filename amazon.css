@@ -1,0 +1,28 @@
+#navbar{
+    height: 60px;
+    background-color: #0f1111;
+}
+*{
+    color: white ;
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 30px;
+}
+a{
+    margin-right: 200px;
+}
+
+.contentbox{
+    height: 200px;
+    width: 200px;
+
+}
+#navbar1{
+    height: 200px;
+    background-color: #040403;
+    text-align: center;
+}

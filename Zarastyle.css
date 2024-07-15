@@ -1,0 +1,36 @@
+h1{
+    color: rgb(255, 255, 255);
+}
+p {
+    color:red;
+}
+button{
+    color: white;
+    background-color: black;
+}
+
+
+option{
+    color:green;
+}
+body{
+    background-color:rgb(255, 255, 255)}
+    
+
+    input{
+    color:white;
+    background-color:black;
+}
+#headingOne{
+    color: red;
+}
+#headingTwo{
+    color: rgb(51, 29, 212);
+}
+.hero{
+    color: maroon;
+}
+h2 {
+    text-align: center;
+
+}

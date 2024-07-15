@@ -1,0 +1,38 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+#outer{
+    font-size: 20px ;
+}
+#inner{
+    font-size: 20px;
+}
+div h1{
+    border-width: 50;
+    height: 50px;
+    width: 600px;
+    border-style: solid;
+    background-color: blueviolet;
+    border-color: red;
+    border-radius: 50%;
+   /* border: 23px dotted magenta;*/
+}
+h1{
+    text-align: center;
+}
+div {
+    height: 100;
+    width: 100;
+    background-color: aqua;
+    border: 10px none mediumblue;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;    
+    padding-bottom: 100px; 
+    margin: 20px; 
+      /*border-radius: 50px;*/
+}
+du{
+    background-color: black;
+}
+

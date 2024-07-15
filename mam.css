@@ -1,0 +1,17 @@
+td,th,td{
+    
+    border-style:double;
+    border-radius:10px;
+    text-align: center;
+    
+}
+th{
+    background-color: blue;
+}
+caption{
+    color: brown;
+  }
+  *{
+    color: blue;
+  }
+
